@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babel-core": "^6.3.26",
+    "v8-profiler": "^5.5.0"
+  }
+}
